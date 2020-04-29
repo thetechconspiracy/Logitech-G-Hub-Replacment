@@ -8,12 +8,14 @@ Usage:
 0. Configure mouse lighting as desired in GHub
 1. Install AutoHotKey
 2. In Logitech GHub, map the buttons on the mouse as follows:
-  G5: F16
-  G6: F17
-  G7: F14
-  G8: F13
-  G9: F15
-  G Shift: F18
+
+  *G5: F16
+  *G6: F17
+  *G7: F14
+  *G8: F13
+  *G9: F15
+  *G Shift: F18
+  
 3. Set the mouse into On Board mode (In the configuration page in GHub for the mouse, enable On Board Mode)
 4. Set the On Board Profile to your current GHub profile (Click Profile 1/whatever profile you desire the configuration on), and click "Replace with Desktop")
 5. Make any desired modifications to the script
