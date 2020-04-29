@@ -6,23 +6,24 @@ Desigined for a Logitech G502.  This may work for other mice, but it may require
 This is designed for my usage.  However, the AutoHotKey script is easy to modify if you desire different functions
 
 Usage: 
+
 0. Configure mouse lighting as desired in GHub
 
 1. Install AutoHotKey
 
 2. In Logitech GHub, map the buttons on the mouse as follows:
 
-  *G5: F16
+  * G5: F16
   
-  *G6: F17
+  * G6: F17
   
-  *G7: F14
+  * G7: F14
   
-  *G8: F13
+  * G8: F13
   
-  *G9: F15
+  * G9: F15
   
-  *G Shift: F18
+  * G Shift: F18
   
 3. Set the mouse into On Board mode (In the configuration page in GHub for the mouse, enable On Board Mode)
 
