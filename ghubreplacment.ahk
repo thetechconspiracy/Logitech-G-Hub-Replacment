@@ -1,3 +1,5 @@
+SendMode input
+
 ; G5
 F16::
 Send, {Browser_Back}
@@ -47,4 +49,9 @@ return
 
 F18 & WheelDown::
 Send, ^{-}
+return
+
+; Task View
+F18 & F15::
+Send, #{Tab}
 return
